@@ -16,6 +16,10 @@ Then, in lessons where you see `.env.example` file, create `.env` file at the ro
 - to a variable `NEXT_PUBLIC_API_KEY` assign your Firebase key
 - to a variable `NEXT_PUBLIC_DATABASE` assign you MongoDB connection string
 
+#### 🛑 If you get `cannot find module next/babel` error make sure to:  
+| update/create `.babelrc`|update/create `.eslintrc.json`|
+|:------------------------:|:------------------------------:|
+|`{ "presets": ["next/babel"], "plugins": [] }`|`{ "extends": ["next/babel", "next/core-web-vitals"] }`|
 <hr />
 
 ### Sneak peak of some projects you will create
