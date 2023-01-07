@@ -1,0 +1,279 @@
+{
+  "comments": {
+    "q3": {
+      "-NL6hPqJajJR-_ukl8dM": {
+        "text": "my new comment... first one"
+      },
+      "-NL7nDaWtYdM8kOcczQe": {
+        "text": "comment after comment"
+      }
+    }
+  },
+  "events": {
+    "e1": {
+      "date": "2021-05-12",
+      "description": "Everyone can learn to code! Yes, everyone! In this live event, we are going to go through all the key basics and get you started with programming as well.",
+      "image": "images/tailwind-main02.png",
+      "isFeatured": false,
+      "location": "Somestreet 25, 12345 San Somewhereo",
+      "title": "Programming for everyone"
+    },
+    "e2": {
+      "date": "2021-05-30",
+      "description": "We know: Networking is no fun if you are an introvert person. That's why we came up with this event - it'll be so much easier. Promised!",
+      "image": "images/tailwind-main01.png",
+      "isFeatured": true,
+      "location": "New Wall Street 5, 98765 New Work",
+      "title": "Networking for introverts"
+    },
+    "e3": {
+      "date": "2022-04-10",
+      "description": "You probably need no help with networking in general. But focusing your energy correctly - that is something where most people can improve.",
+      "image": "images/tailwind-main03.png",
+      "isFeatured": true,
+      "location": "My Street 12, 10115 Broke City",
+      "title": "Networking for extroverts"
+    }
+  },
+  "meals": {
+    "m1": {
+      "description": "Finest fish and veggies",
+      "name": "Sushi",
+      "price": 22.99
+    },
+    "m2": {
+      "description": "A german specialty!",
+      "name": "Schnitzel",
+      "price": 16.5
+    },
+    "m3": {
+      "description": "American, raw, meaty",
+      "name": "Barbecue Burger",
+      "price": 12.99
+    },
+    "m4": {
+      "description": "Healthy... and green...",
+      "name": "Green Bowl",
+      "price": 18.99
+    },
+    "m5": {
+      "description": "Mexican quadilla",
+      "name": "Tortilla",
+      "price": 17.99
+    }
+  },
+  "meetups": {
+    "-N6eHpAUWOSgjA-EA_zx": {
+      "address": "New Street, 23",
+      "description": "hey lets meet",
+      "image": "https://i.guim.co.uk/img/media/4029627c6696c246ff8374fb38e0e0752ab7a5dd/79_69_5424_3252/master/5424.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=ffa09baee48030dafa6a844e83bb128f",
+      "title": "New meetup"
+    },
+    "-N6gYZYHRYkn-lb3ojYG": {
+      "address": "Another street 22",
+      "description": "smart building is the way to go today isnt it?",
+      "image": "https://www.sustainableplaces.eu/wp-content/uploads/2017/02/SmartBuilding.jpg",
+      "title": "Smart Building"
+    }
+  },
+  "movies": {
+    "-MxOvYhr7nAlget_JocV": {
+      "openingText": "Welcome to space",
+      "releaseDate": "27.02.1998",
+      "title": "Interstellar"
+    },
+    "-MxOvfqjnP0f2OP6hHHt": {
+      "openingText": "we are Corleones",
+      "releaseDate": "11.02.1998",
+      "title": "Godfather"
+    },
+    "-MxP8ZUlTbOmHkViwTmv": {
+      "openingText": "satiric right?",
+      "releaseDate": "09.09.2009.",
+      "title": "Dont look up"
+    },
+    "-NL6V6341RjZipSTa4e5": {
+      "openingText": "pretty good hamburger",
+      "releaseDate": "18.09.2020.",
+      "title": "Pulp fiction"
+    }
+  },
+  "orders": {
+    "-MxaZyCuI3wuzy6NqkgF": {
+      "orderedItems": [
+        {
+          "amount": 2,
+          "id": "m2",
+          "name": "Schnitzel",
+          "price": 16.5
+        },
+        {
+          "amount": 1,
+          "id": "m3",
+          "name": "Barbecue Burger",
+          "price": 12.99
+        },
+        {
+          "amount": 1,
+          "id": "m4",
+          "name": "Green Bowl",
+          "price": 18.99
+        }
+      ],
+      "user": {
+        "email": "lux@mail",
+        "name": "Lux"
+      }
+    },
+    "-MxaaEt-KdHN69OkIJrM": {
+      "orderedItems": [
+        {
+          "amount": 2,
+          "id": "m2",
+          "name": "Schnitzel",
+          "price": 16.5
+        },
+        {
+          "amount": 1,
+          "id": "m3",
+          "name": "Barbecue Burger",
+          "price": 12.99
+        },
+        {
+          "amount": 1,
+          "id": "m4",
+          "name": "Green Bowl",
+          "price": 18.99
+        }
+      ],
+      "user": {
+        "email": "mail@mail",
+        "name": "Luxino"
+      }
+    },
+    "-MxaaUDFBTwDokErrqNB": {
+      "orderedItems": [
+        {
+          "amount": 2,
+          "id": "m2",
+          "name": "Schnitzel",
+          "price": 16.5
+        },
+        {
+          "amount": 1,
+          "id": "m3",
+          "name": "Barbecue Burger",
+          "price": 12.99
+        },
+        {
+          "amount": 1,
+          "id": "m4",
+          "name": "Green Bowl",
+          "price": 18.99
+        }
+      ],
+      "user": {
+        "email": "car@car",
+        "name": "mike"
+      }
+    },
+    "-MxaaiGdbdJyTPlamt8I": {
+      "orderedItems": [
+        {
+          "amount": 1,
+          "id": "m1",
+          "name": "Sushi",
+          "price": 22.99
+        },
+        {
+          "amount": 1,
+          "id": "m2",
+          "name": "Schnitzel",
+          "price": 16.5
+        }
+      ],
+      "user": {
+        "email": "mail@mail",
+        "name": "Johnny"
+      }
+    },
+    "-MxabVWuDOuqRt-ICAWT": {
+      "orderedItems": [
+        {
+          "amount": 1,
+          "id": "m1",
+          "name": "Sushi",
+          "price": 22.99
+        },
+        {
+          "amount": 1,
+          "id": "m2",
+          "name": "Schnitzel",
+          "price": 16.5
+        }
+      ],
+      "user": {
+        "email": "franc@mai",
+        "name": "franc"
+      }
+    }
+  },
+  "quotes": {
+    "-NL6hUmQAjpAp3HAkZy1": {
+      "author": "kafka",
+      "text": "what is up"
+    },
+    "q1": {
+      "author": "johnny cash",
+      "text": "let me play you a song"
+    },
+    "q2": {
+      "author": "samuel l jackson",
+      "text": "im tired of these snakes"
+    },
+    "q3": {
+      "author": "mike jordan",
+      "text": "i took that personally"
+    }
+  },
+  "sales": {
+    "s1": {
+      "username": "lux",
+      "volume": 1
+    },
+    "s2": {
+      "username": "petra",
+      "volume": 2
+    },
+    "s3": {
+      "username": "mike",
+      "volume": 10
+    }
+  },
+  "tasks": {
+    "-MxPKQ8IGUM6VmT_ekU7": {
+      "text": "My new task"
+    },
+    "-MxPrWKR-AyKIJm1vVNV": {
+      "text": "Another task"
+    },
+    "-MxPwudauRXJk_qN6Isf": {
+      "text": "hej"
+    },
+    "-MxPx5lgeirZvLyR3kGE": {
+      "text": "haj"
+    },
+    "-MxPxKXPHNqgfhnC6Vxc": {
+      "text": "bok ej"
+    },
+    "-MxPxT8CyvXbWtETA9JR": {
+      "text": "haj vbok"
+    },
+    "-NL6XWWv01o2rA2-r4zn": {
+      "text": "another one task added"
+    },
+    "-NL7Ax4ccWDbpAgKCMIV": {
+      "text": "adding"
+    }
+  }
+}

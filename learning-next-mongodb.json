@@ -1,0 +1,87 @@
+{
+  "learningnext": {
+    "comments": [
+      {
+        "_id": "ObjectId('87aghtq5eb46697fbedce9v5')",
+        "email": "some1@mail.com",
+        "name": "Someone",
+        "comment": "hey this is my comment",
+        "eventId": "e1"
+      },
+      {
+        "_id": "ObjectId('lakzrt1beb46697fbedceaaaa')",
+        "email": "else@mail.com",
+        "name": "jack",
+        "comment": "whats up?",
+        "eventId": "e1"
+      },
+      {
+        "_id": "ObjectId('poalgft2eb46697fbedcbbbb')",
+        "email": "newmail@mail.com",
+        "name": "new person",
+        "comment": "nothing much",
+        "eventId": "e2"
+      },
+      {
+        "_id": "ObjectId('pao56115eb46697fbedcdddd')",
+        "email": "hej@mail.com",
+        "name": "hello guy",
+        "comment": "hello peeps whats up",
+        "eventId": "e2"
+      },
+      {
+        "_id": "ObjectId('a51fdta22ea1901b259fcccc')",
+        "email": "mike@mail.com",
+        "name": "mike",
+        "comment": "bye bye",
+        "eventId": "e3"
+      }
+    ],
+    "email": [
+      {
+        "_id": "ObjectId('ppoolla1130c7aa586aaaaa')",
+        "email": "neki-lik@mail.com"
+      },
+      {
+        "_id": "ObjectId('123adfq0eb46697fbedfgvc')",
+        "email": "some1@mail.com"
+      },
+      {
+        "_id": "ObjectId('lav531052ea1901b259fkaqe')",
+        "email": "newmail@mail.com"
+      }
+    ],
+    "messages": [
+      {
+        "_id": "ObjectId('pabnb7752ea1901b259qowre')",
+        "email": "haiko@mail.com",
+        "name": "Haiko",
+        "message": "never stop coding"
+      },
+      {
+        "_id": "ObjectId('layver1d34edc393f3dopqal')",
+        "email": "johnny@mail.com",
+        "name": "johnny bravo",
+        "message": "im johnny bravo "
+      },
+      {
+        "_id": "ObjectId('paol550afa22d5e09c8plyvc')",
+        "email": "person@mail.com",
+        "name": "person22",
+        "message": "coding more"
+      }
+    ],
+    "users": [
+      {
+        "_id": "ObjectId('lvbxcyqeb9434297ceplyaqq')",
+        "email": "jordan@mail.com",
+        "password": "$2a$12$K2FuRP1ihgJplma12zuhgbmaMqzng15/huq6chPLkudfav45vb0po"
+      },
+      {
+        "_id": "ObjectId('yxcyxyc30deb8a72b0appaly')",
+        "email": "kaf@mail.com",
+        "password": "$2a$12$xDevv7lwWuUE1wDal.dxC.f.tOstgAUs5fwoxcDO84IxHjghtz341"
+      }
+    ]
+  }
+}
