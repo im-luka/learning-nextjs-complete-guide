@@ -33,3 +33,5 @@ yarn-error.log*
 
 .env
 .eslintrc.json
+
+/public/images/site/img_github.jpeg
